@@ -12,5 +12,6 @@ int main()
         }
         cout << endl;
     }
+	cout << "You created a "<< s << " by " << s << " square!" << endl;
     return 0;
 }
